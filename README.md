@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/rorymeijer"><img src="https://img.shields.io/badge/Twitter-%40rorymeijer-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://rorymeijer.nl"><img src="https://img.shields.io/badge/Website-rorymeijer.nl-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/rorymeijernl"><img src="https://img.shields.io/badge/LinkedIn-Rory%20Meijer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rory@rorymeijer.nl"><img src="https://img.shields.io/badge/Email-rory%40rorymeijer.nl-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/rorymeijer"><img src="https://img.shields.io/badge/GitHub-rorymeijer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -44,8 +46,10 @@
 
 ### 📫 Contact
 
-- 🐦 Twitter/X: [@rorymeijer](https://twitter.com/rorymeijer)
-- 🌐 GitHub: [github.com/rorymeijer](https://github.com/rorymeijer)
+- 🌐 Website: [rorymeijer.nl](https://rorymeijer.nl)
+- 💼 LinkedIn: [in/rorymeijernl](https://www.linkedin.com/in/rorymeijernl)
+- 📧 Email: [rory@rorymeijer.nl](mailto:rory@rorymeijer.nl)
+- 🐙 GitHub: [github.com/rorymeijer](https://github.com/rorymeijer)
 
 <p align="center"><sub>Bedankt voor het langskomen — veel plezier! ✨</sub></p>
 
